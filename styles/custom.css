@@ -1,0 +1,27 @@
+.site-layout-content {
+    min-height: 100vh;
+    padding: 25px;
+}
+
+h3.ant-typography {
+    color: var(--text-primary-color);
+}
+
+.ant-picker {
+    width: 100%;
+}
+
+label.ant-form-item-required {
+    color: var(--text-secundary-color);
+}
+
+ul.ant-picker-ranges {
+    display: flex
+}
+.ant-picker-ranges .ant-picker-ok {
+    margin-left: 0px;
+}
+
+li.ant-picker-now {
+    display: none;
+}
